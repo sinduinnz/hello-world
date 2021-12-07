@@ -1,6 +1,6 @@
 # hello-world
 
-Hi How are u 
+Hi This is ReadMe file in Child Branch.
 
 
 learning github
